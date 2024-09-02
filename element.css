@@ -1,0 +1,7 @@
+p,a{
+    color: aqua;
+}
+li{
+    color: blue;
+    list-style: circle;
+}

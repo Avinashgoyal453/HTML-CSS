@@ -1,0 +1,9 @@
+li[class]{
+    color: burlywood;
+}
+li[class="a"]{
+    color: blueviolet;
+}
+li[class~=a]{
+    color: chartreuse;
+}

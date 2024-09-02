@@ -1,0 +1,24 @@
+.special{
+    color: brown;
+    font-weight: bold;
+}
+span.special{
+    color:aquamarine ;
+    font-weight: bold;
+}
+li em{
+    color: bisque;
+}
+h1+p{
+    font-weight: bolder;
+}
+a:hover{
+  color: crimson;
+  text-decoration: none;
+}
+
+body h1+p .special{
+    color: darkgreen;
+    background-color: cadetblue;
+    padding: 10px;
+}
